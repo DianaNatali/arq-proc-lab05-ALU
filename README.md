@@ -1,4 +1,4 @@
-# lab04: Multiplicador de 3 bits usando Máquina de Estados
+# lab05: ALU
 
 
 ## Integrantes 
